@@ -1,3 +1,7 @@
+ANALISIS DATA DENGAN PYTHON
+
+Project ini digunakan untuk menyelesaikan tugas akhir dari dicoding academy. Hasilnya akan dideploy ke streamlit.
+
 cara menjalankan streamlit lokal adalah sebagai berikut:
 
 1. install library streamlit di python, caranya dengan pip install streamlit
